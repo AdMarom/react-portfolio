@@ -34,7 +34,7 @@ import About from "./pages/navbar/About";
 import Contact from "./pages/navbar/Contact";
 import Portfolio from "./pages/navbar/Portfolio";
 import Resume from "./pages/navbar/Resume";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 
 import './App.css';
 
